@@ -1,0 +1,47 @@
+[
+  {
+    "name": "sessionid",
+    "value": "231369806%3A1gfzXE3qARYX1o%3A9%3AAYfPjTuvYEP9OL61dsijOYFyYC_1Bknurwz_lMQIUfg",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "csrftoken",
+    "value": "lecu4urNFqWvQK8ButYHEmAbRfVGMmI5",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ds_user_id",
+    "value": "231369806",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ig_did",
+    "value": "62FE2A2B-8B56-4DDC-810D-AC015A1C1839",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "datr",
+    "value": "JdxUZgDIHEZ_MZTbWOKPLzRU",
+    "domain": ".instagram.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  }
+]
